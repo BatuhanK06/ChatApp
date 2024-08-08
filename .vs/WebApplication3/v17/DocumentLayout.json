@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|c:\\users\\batuh\\source\\repos\\webapplication3\\webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7DCA7280-9219-4484-A688-59CE956F9BD9}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "WebApplication3\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:46:30.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:03:32.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\appsettings.json",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\appsettings.json",
+              "RelativeToolTip": "WebApplication3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T10:47:39.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T10:47:35.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "WebApplication3\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:57:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T08:38:53.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAYwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T08:38:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Pages\\Login.cshtml",
+              "RelativeToolTip": "WebApplication3\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T08:34:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.html",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\chat.html",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\chat.html",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\chat.html",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\chat.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-06T11:49:18.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\Models\\Message.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:23:41.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\batuh\\source\\repos\\WebApplication3\\WebApplication3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwIQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T09:58:03.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
